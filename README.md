@@ -41,7 +41,7 @@ chmod +x scripts/*.sh
 4. Run a script:
 
 ```bash
-./scripts/example.sh
+./scripts/simmer_down/simmer_down.sh
 ```
 
 ## Repository Structure
